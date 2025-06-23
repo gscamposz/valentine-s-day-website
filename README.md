@@ -12,8 +12,11 @@ A simple, romantic Valentine's Day website built with HTML, CSS, and PHP. This p
 ## 📁 Project Structure
 valentine-s-day-website-main/
 ├── README.md
+
 └── WebSite/
+
 ├── index.php # Landing page with romantic intro
+
 └── home.php # Displays message with relationship time counter
 
 
